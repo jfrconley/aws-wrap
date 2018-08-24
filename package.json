@@ -1,13 +1,16 @@
 {
   "name": "aws-wrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
+  "keywords": ["aws-sdk", "aws"],
+  "author": "John Conley",
   "dependencies": {
     "which": "^1.3.1"
   },
   "bin": {
     "aws-wrap": "index.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": "https://github.com/jfrconley/aws-wrap"
 }
