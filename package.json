@@ -8,5 +8,6 @@
   },
   "bin": {
     "aws-wrap": "index.js"
-  }
+  },
+  "preferGlobal": true
 }
